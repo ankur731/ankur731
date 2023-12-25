@@ -1,5 +1,3 @@
-Ankur Tiwari
-<h1>Ankur Tiwari</h1>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/ankurtiwari73//)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ankur_tiwari73/)](https://www.instagram.com/ankur_tiwari73)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ankur73tiwari@gmail.com)
